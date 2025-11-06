@@ -1,0 +1,7 @@
+{
+  "name": "MasterChef AI",
+  "description": "Un'app di suggerimenti di ricette basata su AI per famiglie e studenti. Inserisci gli ingredienti che hai e MealShare suggerirà ricette veloci ed economiche, generando una lista della spesa per ciò che manca.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
